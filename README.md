@@ -6,6 +6,8 @@ This project examines vegetation change and observed building damage associated 
 
 Using Sentinel-2 Level-2A satellite imagery and CAL FIRE Damage Inspection (DINS) data, the analysis applies the Normalized Burn Ratio (NBR) and differenced Normalized Burn Ratio (dNBR) to classify relative burn severity and compare sampled burn-severity values with post-fire structure inspection outcomes.
 
+#### Presentation Here: (presentation/Palisades_Fire_Project_Report.pdf)
+
 ### Research Question: How did the Palisades Fire affect vegetation, and how did observed building damage relate spatially to the burned area?
 
 ### Objectives:
