@@ -1,0 +1,15 @@
+# ArcGIS Pro project files and working data
+arcgis_project/
+
+# Raw satellite imagery and source data
+raw_data/
+exports/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.lock
